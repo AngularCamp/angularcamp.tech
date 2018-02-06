@@ -18,7 +18,7 @@
 <h2 id="consequences-of-unacceptable-behavior">Consequences of Unacceptable Behavior</h2>
 <p>Unacceptable behavior from any summit community participants, including those with decision-making authority, will not be tolerated.</p>
 <p>Anyone asked to stop unacceptable behavior is expected to comply immediately.</p>
-<p>If an event participant engages in unacceptable behavior, the organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the event, as well as associated and future events without warning.</p>
+<p>If an event participant engages in unacceptable behavior, the organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the event without a refund at the discretion of the conference organisers, as well as associated and future events without warning.</p>
 <h2 id="reporting-guidelines">Reporting guidelines</h2>
 <p>If you are subject to or witness unacceptable behavior, or have any other concerns, please notify the summit conduct team as soon as possible by calling <a href="https://twitter.com/davidpich">David Pich</a> at: +34620169623. You can speak in english, catalan or spanish</p>
 <p>Additionally, event organizers are available to help attendees engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.</p>
